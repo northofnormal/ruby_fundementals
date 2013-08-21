@@ -1,0 +1,17 @@
+Shotgun Assignment: 
+
+
+
+a, b, c = "eat", "chunky", "bacon"
+
+"rubeque"
+
+==============================
+
+Or Equal Assignment: 
+
+assert_equal c, "rubeque"
+
+==============================
+
+? "Irish" : "Not Irish"

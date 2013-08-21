@@ -1,0 +1,8 @@
+String exercise responses:
+
+Reverse: chunky bacon
+Hello World: .upcase
+There's no way this works: true
+There's no way this works pt. 2: HelloWorld
+Brackets and searches: /[e]/]
+No Limit: split(",")
